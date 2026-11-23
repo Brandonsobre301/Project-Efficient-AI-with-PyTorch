@@ -1,0 +1,7 @@
+torch>=2.0
+torchvision>=0.15
+accelerate>=0.27
+transformers>=4.36
+evaluate>=0.4
+datasets>=2.16
+scikit-learn>=1.3
